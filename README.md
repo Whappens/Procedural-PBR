@@ -2,7 +2,7 @@
 
 Lightweight, zero-bloat CLI utilities written in Python that procedurally generate seamless, tileable PBR (Physically Based Rendering) texture maps for realistic stylized water and clouds. Designed to plug directly into the Godot Engine material pipeline.
 
-![Showcase](media/PBR%20Textures.webp)
+![Showcase](PBR%20Textures.webp)
 
 ### 🌊 Map Output Features
 
